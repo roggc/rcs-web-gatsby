@@ -1,0 +1,5 @@
+.codeBlock {
+  border-radius: 10px;
+  max-width: calc(100%);
+  overflow: auto;
+}
