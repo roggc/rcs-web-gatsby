@@ -1,0 +1,11 @@
+.code {
+  color: var(--red);
+}
+
+.strong {
+  color: var(--blue);
+}
+
+.codeBlock {
+  border-radius: 10px;
+}

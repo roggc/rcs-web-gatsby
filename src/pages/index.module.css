@@ -1,0 +1,14 @@
+.titleContainer {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.iconsContainer {
+  display: flex;
+  align-items: center;
+}
+
+.title {
+  font-size: 2em;
+}

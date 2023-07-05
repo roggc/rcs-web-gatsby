@@ -1,0 +1,25 @@
+.appContainer {
+  height: 100vh;
+  max-height: fill-available;
+  max-height: -webkit-fill-available;
+  max-height: -moz-fill-available;
+  display: flex;
+}
+
+.pageContent {
+  flex: 100%;
+  overflow: auto;
+  padding: 20px 20px;
+}
+
+.mobileAppContainer {
+  flex-direction: column;
+}
+
+.mobilePageContent {
+  padding: 20px 20px;
+  position: relative;
+  display: flex;
+  overflow: auto;
+  flex: 1;
+}

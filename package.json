@@ -19,7 +19,13 @@
     "gatsby": "^5.11.0",
     "gatsby-plugin-styled-components": "^6.11.0",
     "react": "^18.2.0",
+    "react-context-slices": "^9.0.14",
     "react-dom": "^18.2.0",
+    "react-icons": "^4.10.1",
+    "react-markdown": "^8.0.7",
+    "react-responsive": "^9.0.2",
+    "react-syntax-highlighter": "^15.5.0",
+    "rehype-raw": "^6.1.1",
     "styled-components": "^6.0.2"
   }
 }

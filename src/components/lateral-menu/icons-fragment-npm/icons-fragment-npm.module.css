@@ -1,0 +1,8 @@
+.faGithub {
+  cursor: pointer;
+}
+
+.faNpm {
+  cursor: pointer;
+  color: var(--red);
+}

@@ -1,0 +1,47 @@
+:root {
+  --red: #ee4b2b;
+  --blue: #0096ff;
+  --black: #353935;
+  --white: #faf9f6;
+  --brown: #c04000;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html,
+body {
+  font-family: Roboto;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+body {
+  margin: 0;
+  font-family: "Roboto";
+  line-height: 1.5;
+  color: #353935;
+  background-color: #faf9f6;
+}
+
+p {
+  margin-block-start: 0em;
+  margin-block-end: 0em;
+}
+
+a.active {
+  background-color: rgba(0, 150, 255, 0.1);
+  border: 2px solid rgba(0, 150, 255, 0.6);
+  border-radius: 5px;
+  padding: 10px;
+}
+
+code {
+  font-family: "Source Code Pro";
+}

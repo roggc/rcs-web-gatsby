@@ -1,0 +1,63 @@
+.headerContainer {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 20px;
+  border-bottom: 2px solid var(--red);
+  overflow: auto;
+}
+
+.headerLeftContainer {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+
+.fiMenu {
+  cursor: pointer;
+  color: var(--red);
+}
+
+.headerTitle {
+  font-size: 1.5em;
+  display: flex;
+  align-items: center;
+  gap: 3px;
+}
+
+.iconsContainer {
+  display: flex;
+  align-items: center;
+}
+
+.faReact {
+  color: var(--blue);
+}
+
+.siRedux {
+  color: var(--blue);
+}
+
+.link {
+  text-decoration: none;
+  display: block;
+  color: inherit;
+  padding: 10px;
+  border: 2px solid var(--white);
+}
+
+.headerRightContainer {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+
+.faGithub {
+  cursor: pointer;
+}
+
+.faNpm {
+  cursor: pointer;
+  color: var(--red);
+}
