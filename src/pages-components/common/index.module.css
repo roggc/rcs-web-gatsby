@@ -3,3 +3,18 @@
   max-width: calc(100%);
   overflow: auto;
 }
+
+.table {
+  overflow: auto;
+}
+
+.table td,
+.table th {
+  padding: 0 10px;
+  box-sizing: content-box;
+}
+
+.anchor {
+  text-decoration: none;
+  color: var(--red);
+}
